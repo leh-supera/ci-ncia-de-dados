@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 :root {
-    --bg-color: #CDC1FF;
-    --primary-color: #181C14;
-    --secondary-color: #6439FF;
+    --bg-color: #e90707;
+    --primary-color: #f1b73a;
+    --secondary-color: #ffffff;
     --font: "Nunito Sans", sans-serif;
-}
+} 
 
 body {
     background-color: var(--bg-color);

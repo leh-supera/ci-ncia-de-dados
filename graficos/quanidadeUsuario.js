@@ -13,7 +13,7 @@ async function quantidadeUsuariosPorRede() {
             y: quantidadeDeUsuarios, 
             type: 'bar',
             marker: {
-                color: getCSS('--secondary-color')
+                color: getCSS('--primary-color')
             }
         }
     ]
