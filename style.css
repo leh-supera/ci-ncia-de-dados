@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
 
 :root {
-    --bg-color: #222831;
-    --primary-color: #DDDDDD;
-    --secondary-color: #F05454;
+    --bg-color: #CDC1FF;
+    --primary-color: #181C14;
+    --secondary-color: #6439FF;
     --font: "Nunito Sans", sans-serif;
 }
 
@@ -48,6 +48,10 @@ nav a:hover {
 
 .graficos-container {
     margin: 5rem;
+}
+
+.grafico {
+    margin-top: 3rem;
 }
 
 .graficos-container__texto {
